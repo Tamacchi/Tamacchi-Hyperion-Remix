@@ -28,7 +28,7 @@ The TP4056 and Aux Case side of the USB C breakout board should be soldered dire
 The 3rd leg of the switch needs to be cut off to fit into the tray. 
 
 ### 3D Printing
-You may choose to print the Shielding STL that goes under the USB C breakout board to separate the distance between TP4056 and the USB C breakout board. PLA is not advised for this print, as it is located close to the TP4056 board which can generate a lot of heat. Please use high-temperature filaments such as PETG, ABS, or ASA.
+You may choose to print the Shielding STL that goes under the USB C breakout board. Use 3M to tape it under the USB C breakout board to hold it in place. It will separate the distance between TP4056 and the USB C breakout board. PLA is not advised for this print, as it is located close to the TP4056 board which can generate a lot of heat. Please use high-temperature filaments such as PETG, ABS, or ASA.
 
 The Forward Tray version pushes the TP4056's USB C port forward more, making it look neater and sit nicely in the printed USB C port hole.
 
