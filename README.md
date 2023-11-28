@@ -4,7 +4,9 @@
 
 You may place an order with me on Discord for these boards. Add me! 
 My username is "tamacchi".
+
 Join SlimeVR Discord: https://discord.gg/slimevr
+
 Check out my marketplace listing: https://discord.com/channels/817184208525983775/1149939588639502406
 
 ### Parts
