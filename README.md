@@ -28,4 +28,4 @@ https://github.com/Smeltie/Hyperion
 
 https://github.com/Lupinixx/SlimeVR-Hyperion-BMI160-PCB
 
-I have originally contributed to the 804040 STL variants for the Lupinix PCB. If you would like to use those, please take the STL files from here instead. (Non-aux version)
+I have originally contributed to the 804040 STL variants for the Lupinix PCB. If you would like to use those, please take the STL files from here instead as there were many changes to fix the flaws of the original case design. (Non-aux version)
