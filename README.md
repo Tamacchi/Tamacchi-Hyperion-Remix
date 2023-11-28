@@ -5,6 +5,8 @@
 ### Electronics
 Uses 4-pin USB C Breakout Board for Aux. https://www.aliexpress.com/item/1005005187670446.html
 
+Uses 1800mAh 804040 batteries, but can fit 804050 or 805040 batteries.
+
 Requires you to manually wire 4 cables from the AUX pins to a USB C breakout board.
 
 Requires you to clip the sides of the USB C breakout board to fit into the printed notches. Then, add 3M tape on the empty spaces above the breakout board on the main case to minimize movement.
