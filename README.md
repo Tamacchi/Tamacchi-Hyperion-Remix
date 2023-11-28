@@ -36,6 +36,8 @@ Dual Color Printing stl files have a small 0.03mm indent on the top of the lid f
 
 Please rotate lid files with the top of the lid facing down on the bed before printing.
 
+Not compatible with original hyperion.
+
 ### Original File Sources
 
 https://github.com/Smeltie/Hyperion
