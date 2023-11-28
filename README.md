@@ -1,6 +1,6 @@
 # Tamacchi Modified Hyperion Case and Lupinix PCB for SlimeVR
 
-## <span style="color:red">Use caution for USB C Aux ports. The IMUs are not 5V compatible and will damage IMUs if plugged into other devices.</span>
+## Use caution for USB C Aux ports. The IMUs are not 5V compatible and will damage IMUs if plugged into other devices.
 
 ### Electronics
 Uses 4-pin USB C Breakout Board for Aux. https://www.aliexpress.com/item/1005005187670446.html
