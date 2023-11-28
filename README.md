@@ -9,7 +9,8 @@ Uses 1800mAh 804040 batteries, but can fit 804050 or 805040 batteries.
 
 Requires you to manually wire 4 cables from the AUX pins to a USB C breakout board.
 
-You must add at least 5 layers of paper tape between the USB C breakout board and the TP4056 beneath. Otherwise, it may contact the TP4056 below. I am working on an STL fix to this that will add separation between the two.
+You must add at least 5 layers of paper tape between the USB C breakout board and the TP4056 beneath. Otherwise, it may contact the TP4056 below. 
+Optionally, you may choose to print the Shielding STL that goes under the USB C breakout board. PLA not advised for this print, as it is located close to the TP4056 board which can generate a lot of heat. Please use PETG, ABS, ASA and etc.
 
 Requires you to clip the sides of the USB C breakout board to fit into the printed notches. Then, add 3M tape on the empty spaces above the breakout board on the main case to minimize movement.
 
