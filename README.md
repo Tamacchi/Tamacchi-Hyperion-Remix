@@ -16,6 +16,8 @@ Requires you to clip the sides of the USB C breakout board to fit into the print
 
 The TP4056 and Aux Case side of the USB C breakout board should be soldered directly onto the board without header pins.
 
+The 3rd leg of the switch needs to be cut off to fit into the tray. 
+
 ### 3D Printing
 You may choose to print the Shielding STL that goes under the USB C breakout board to separate the distance between TP4056 and the USB C breakout board. PLA is not advised for this print, as it is located close to the TP4056 board which can generate a lot of heat. Please use high-temperature filaments such as PETG, ABS, or ASA.
 
