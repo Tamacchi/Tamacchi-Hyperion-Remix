@@ -11,12 +11,19 @@ Check out my marketplace listing: https://discord.com/channels/81718420852598377
 
 ### Parts
 Uses 4-pin USB C Breakout Board for Aux: https://www.aliexpress.com/item/1005005187670446.html
+
 WEMOS D1 Mini MicroUSB
+
 SS12D00G3 (Switch)
+
 TP4056
+
 25MM and 40MM Straps
+
 1N5817 Diode (2x)
+
 180K Ohm Resistor
+
 804040 Batteries
 
 ### Electronics
