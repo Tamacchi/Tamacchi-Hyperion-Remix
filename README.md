@@ -2,6 +2,9 @@
 
 ## Use caution for USB C Aux ports. The IMUs are not 5V compatible and will damage IMUs if plugged into other devices.
 
+You may place an order with me on Discord for these boards. Add me! 
+My username is "tamacchi".
+
 ### Parts
 Uses 4-pin USB C Breakout Board for Aux: https://www.aliexpress.com/item/1005005187670446.html
 WEMOS D1 Mini MicroUSB
