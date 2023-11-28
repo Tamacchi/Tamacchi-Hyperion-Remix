@@ -19,3 +19,11 @@ The Forward Tray version pushes the TP4056's USB C port forward more, making it 
 Dual Color Printing stl files have a small 0.03mm indent on the top of the lid for the symbols and text. This allows you to separate them from the rest of the lid while printing everything on  the first layer when coloring in using Bambu Lab's color fill feature. 
 
 Please rotate lid files with the top of the lid facing down on the bed before printing.
+
+### Original File Sources
+
+https://github.com/Smeltie/Hyperion
+
+https://github.com/Lupinixx/SlimeVR-Hyperion-BMI160-PCB
+
+I have originally contributed to the 804040 STL variants for the Lupinixx PCB. If you would like to use those, please take the STL files from here instead. (Non-aux version)
